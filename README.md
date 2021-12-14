@@ -20,9 +20,6 @@ textarea{
     background: blue;
     color: lightyellow;
 
-   width: 95vw;
-   height: 35vw;
-
 }
 
 p{

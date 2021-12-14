@@ -45,9 +45,9 @@ button{
 
 }
 
-body{
+/*body{
     background: pink;
-}
+}*/
 
 </style>
 

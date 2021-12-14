@@ -57,7 +57,7 @@ body{
 
     </head>
 
-    <body  style="text-align:center;"><textarea readonly="true" id="botChat" style="text-align:left; position:fixed; display:block; top:3vh; border:1px solid black; margin-left:1%; margin-right:2.25%; resize:none; font-family:Courier; overflow-y:auto; user-select:none; font-size:6vw;"></textarea>        <p style="position:absolute; border:1px solid black; top:78vh; left:12.25vw;">      
+    <body  style="text-align:center;"><textarea readonly="true" id="botChat" style="text-align:left; position:fixed; display:block; top:3vh; border:1px solid black; margin-left:1%; margin-right:2.25%; resize:none; font-family:Courier; overflow-y:auto; user-select:none; font-size:3.5vw;"></textarea>        <p style="position:absolute; border:1px solid black; top:78vh; left:12.25vw;">      
       
   <input type="text" placeholder="Ask a question" onKeypress="enterButton(event, document.getElementsByTagName('input')[0].value);" 
         style="color:white; background-color:black; width:79%;">         <button onClick="answer(document.getElementsByTagName('input')[0].value)">Talk To Me</button></p>        <script>

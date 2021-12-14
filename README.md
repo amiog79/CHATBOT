@@ -24,6 +24,8 @@ textarea{
     position:absolute;
     top:78vh; 
     left:12.25vw;
+    right:12.25vw;
+
 
 }
 

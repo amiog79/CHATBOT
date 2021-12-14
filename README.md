@@ -13,7 +13,7 @@ initial-scale=1.0">
 <style>
     
 input{
-    font-size: 50px;
+    font-size: 30px;
 }
 
 textarea{
@@ -41,13 +41,13 @@ button{
   height:10%;
   box-sizing:60px;
   float:middle;
-  font-size: 50px;
+  font-size: 20px;
 
 }
 
-/*body{
-    background: pink;
-}*/
+body{
+    background: lightgreen;
+}
 
 </style>
 
